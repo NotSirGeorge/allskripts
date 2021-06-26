@@ -1,0 +1,6 @@
+on bed enter:
+  broadcast "&o&b%player% became my dad, got drunk then died!"
+  wait 80 ticks
+  set time of event-world to day
+  set weather of event-world to clear
+  broadcast "&o&bGood morning people, the world decided to bring back %player%"

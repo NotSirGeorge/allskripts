@@ -1,0 +1,3 @@
+on join:
+    wait 10 ticks
+    broadcast "&b&l%player%&r landed on &a&lEarth"

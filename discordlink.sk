@@ -1,0 +1,5 @@
+command /discord:
+	executable by: players
+	permission: discord.link
+	trigger:
+		send "&2&lDiscord Link:&r https://discord.gg/TpwSc7pbRv"
