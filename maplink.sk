@@ -1,5 +1,0 @@
-command /map:
-	executable by: players
-	permission: map.link
-	trigger:
-		send "&2&lEarth Map Link: &r&bhttp://51.89.155.120:2542/"
