@@ -1,0 +1,6 @@
+command /warps:
+        trigger:
+                send "&7&l----&r&6&lWarps&r&7&l----" to player
+                send "&7• &eAfrica" to player
+                send "&7• &eAsia" to player
+                send "&7• &eEurope" to player

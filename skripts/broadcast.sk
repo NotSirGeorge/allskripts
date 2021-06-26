@@ -1,0 +1,13 @@
+options:
+    prefix: &8[&4Announcement&8]
+    permission: fireuhc.alert
+   
+ 
+command /broadcast [<text>]:
+    permission: {@permission}
+    permission message: &cYou do not have permission to execute this command.
+    trigger:
+        if arg-1 is not set:
+            message "&CUsage: &7/alert <Message>"
+        else:
+            broadcast "{@prefix} &f%arg-1%"

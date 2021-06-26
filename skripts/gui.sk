@@ -1,0 +1,3 @@
+command /gui:
+     trigger:
+          open virtual chest inventory with size 3 named "Menu" to player

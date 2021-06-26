@@ -1,0 +1,5 @@
+every 2 minutes:
+		broadcast "&2&lFor the dynmap do &r&3&l/map&r&2&l!"
+		wait 1 minutes
+		broadcast "&2&lA tutorial for proximity chat check &r&3&lupdate-log channel&r&2&l!"
+		wait 30 seconds
