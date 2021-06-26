@@ -3,3 +3,5 @@ every 2 minutes:
 		wait 1 minutes
 		broadcast "&2&lA tutorial for proximity chat check &r&3&lupdate-log channel&r&2&l!"
 		wait 30 seconds
+		
+#This skript is not written well in anyway, please leave a better way of doing it in the issues section!
