@@ -1,9 +1,0 @@
-command /earth [<text>]:
-    trigger:
-        if arg-1 is not set:
-             send "&7&l----&r&a&lEarth&r&7&l----" to player
-             send "&7Hello! And welcome to &aEarth, &7a place where you will regret everything grinding on this server and it being for nothing."
-             send "&7 Anyway if you need help with all custom commands made on this server do &a/earth &7help."        
-        if arg-1 is set:
-             send "&7&l----&r&b&lHelp&r&7&l----" to player
-             send "&7• &cComing Soon"
