@@ -1,6 +1,6 @@
 options:
     prefix: &8[&4Announcement&8]
-    permission: fireuhc.alert
+    permission: perm.alert
    
  
 command /broadcast [<text>]:
